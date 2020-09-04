@@ -144,3 +144,32 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* Marja's Code */
+
+/* Header Styles */
+
+.top-bar {
+    display: flex;
+    align-items: center;
+    padding-top: 3%;
+}
+
+.top-bar nav {
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4% 5% 0;
+}
+
+.top-bar nav a {
+    text-decoration: none;
+    color: black;
+}
+
+header img {
+    padding: 3% 0;
+}
+
+/* Box Styles */
