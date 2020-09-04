@@ -220,10 +220,16 @@ h2 {
     padding-bottom: 2%;
 }
 
-.about {
+.big-text {
     padding: 0 2% 2%;
     border-bottom: 1px dotted black;
 }
+
+.big-text:last-of-type {
+    border: none;
+}
+
+/* Strategy Section */
 
 .strategy {
     display: flex;
@@ -248,4 +254,10 @@ h2 {
     padding: 2% 4%;
     border-radius: 10px;
     background-color: white;
+}
+
+/* Footer Styles */
+
+footer {
+    margin-top: 3%;
 }
