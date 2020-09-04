@@ -144,7 +144,7 @@ footer nav a {
     text-decoration: none;
 }
 
-/* Marja's Code */
+/* Marja's Code - Home Page*/
 
 /* Header Styles */
 
@@ -211,4 +211,41 @@ header img {
 
 .boxes .ten {
     background: dodgerblue;
+}
+
+/* Marja's Code - About Page */
+
+h2 {
+    font-size: 1.2rem;
+    padding-bottom: 2%;
+}
+
+.about {
+    padding: 0 2% 2%;
+    border-bottom: 1px dotted black;
+}
+
+.strategy {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 3% 1.5%;
+}
+
+.info {
+    width: 48%;
+    border-bottom: 1px dotted black;
+    margin-bottom: 3%;
+}
+
+.info img {
+    width: 100%;
+    margin-bottom: 4%;
+}
+
+.info button {
+    margin: 3% 0;
+    padding: 2% 4%;
+    border-radius: 10px;
+    background-color: white;
 }
