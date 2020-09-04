@@ -104,7 +104,6 @@ p {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
     margin: 20px 2.5%;
     color: white;
     display: flex;
@@ -173,3 +172,43 @@ header img {
 }
 
 /* Box Styles */
+
+.boxes .one {
+    background: teal;
+}
+
+.boxes .two {
+    background: gold;
+}
+
+.boxes .three {
+    background: cadetblue;
+}
+
+.boxes .four {
+    background: coral;
+}
+
+.boxes .five {
+    background: crimson;
+}
+
+.boxes .six {
+    background: forestgreen;
+}
+
+.boxes .seven {
+    background: darkorchid;
+}
+
+.boxes .eight {
+    background: hotpink;
+}
+
+.boxes .nine {
+    background: indigo;
+}
+
+.boxes .ten {
+    background: dodgerblue;
+}
